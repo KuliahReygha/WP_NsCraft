@@ -1,0 +1,19 @@
+2026-11-05T20:16:27+00:00 DEBUG #3826.WC - [New Request] POST /WP_NsCraft/ @ 20:16:26.701
+2026-11-05T20:16:27+00:00 ERROR #3826.WC - SDK v6 client token runtime error: Cannot request a PayPal client token without a client ID and secret.
+2026-11-05T20:16:30+00:00 DEBUG #8794.WC - [New Request] POST /WP_NsCraft/ @ 20:16:29.078
+2026-11-05T20:16:30+00:00 ERROR #8794.WC - SDK v6 client token runtime error: Cannot request a PayPal client token without a client ID and secret.
+2026-11-05T20:18:18+00:00 DEBUG #6684 - [New Request] GET /WP_NsCraft/wp-admin/admin.php @ 20:18:14.372
+2026-11-05T20:18:18+00:00 DEBUG #6684 - GET https://api.woocommerce.com/integrations/ppc/v1/customer/partners/K8SKZ36LQBWXJ/merchant-integrations/
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+
+2026-11-05T20:18:18+00:00 WARNING #6684 - [Error] Not Found CONTEXT: {"args":{"method":"GET","headers":{"Authorization":"Bearer token","Content-Type":"application/json"}},"response":{"headers":{},"body":"{\"statusCode\":404,\"error\":\"Not Found\",\"message\":\"Not Found\"}","response":{"code":404,"message":"Not Found"},"cookies":[],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}}
+2026-11-05T20:22:03+00:00 DEBUG #9194.WC - [New Request] POST /WP_NsCraft/ @ 20:22:01.572
+2026-11-05T20:22:03+00:00 ERROR #9194.WC - SDK v6 client token runtime error: Cannot request a PayPal client token without a client ID and secret.
+2026-11-05T20:22:30+00:00 DEBUG #2531.WC - [New Request] POST /WP_NsCraft/ @ 20:22:28.631
+2026-11-05T20:22:30+00:00 ERROR #2531.WC - SDK v6 client token runtime error: Cannot request a PayPal client token without a client ID and secret.
