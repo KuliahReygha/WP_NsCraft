@@ -1,0 +1,6 @@
+2026-11-07T07:48:49+00:00 INFO Email "customer_new_account" for user #2 sent CONTEXT: {"email_type":"customer_new_account","status":"sent","recipient":"tugasdwireygha","user":2}
+2026-11-07T08:42:29+00:00 INFO Email "new_order" for order #1907 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"admin","order":1907}
+2026-11-07T08:42:29+00:00 INFO Email "customer_processing_order" for order #1907 sent CONTEXT: {"email_type":"customer_processing_order","status":"sent","recipient":"admin","order":1907}
+2026-11-07T10:57:39+00:00 INFO Email "customer_new_account" for user #3 sent CONTEXT: {"email_type":"customer_new_account","status":"sent","recipient":"fathandahaq20","user":3}
+2026-11-07T11:18:56+00:00 INFO Email "new_order" for order #2020 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"admin","order":2020}
+2026-11-07T11:18:56+00:00 INFO Email "customer_processing_order" for order #2020 sent CONTEXT: {"email_type":"customer_processing_order","status":"sent","recipient":"admin","order":2020}
